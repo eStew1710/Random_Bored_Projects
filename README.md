@@ -1,3 +1,3 @@
 # Random_Bored_Projects
 
-# Amateur coder at best, but getting better every day :)
+Just an amateur coder at best, but I’m getting better everyday!
